@@ -14,57 +14,62 @@ A React-based web application that allows users to customize text appearance and
   One-click copy formatted text.
 - **Responsive Design**  
   Works on all device sizes.
-
+  
 ## 🚀 Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-Mohammad-Rahme-576/text-formatter.git
-2. Navigate to the project folder:
-   ```bash
-  cd text-formatter-app
-3. Install dependencies:
-   ```bash
-   npm install
-4. Run the app:
-  ```bash
-  npm run dev
-5.Open http://localhost:3000 in your browser.
+
+To install and run the Text Formatter App, follow these steps:
+
+1. **Clone the repository**:
+```bash
+git clone https://github.com/Mohammad-Rahme-576/text-formatter.git
+```
+2. **Navigate to the project folder**:
+```bash
+cd text-formatter-app
+```
+3. **Install dependencies**:
+```bash
+npm install
+```
+4. **Run the app**:
+```bash
+npm run dev
+```
+5. **Open the app in your browser**:
+Open http://localhost:3000 in your browser.
 
 🖥️ Usage
-Enter Text: Type or paste text into the text area.
+----------
 
-Customize: Use the controls to modify:
+### Entering and Customizing Text
 
-Font (size, family, weight)
+* **Enter Text**: Type or paste text into the text area.
+* **Customize**: Use the controls to modify:
+	+ Font (size, family, weight)
+	+ Theme (light/dark/sepia)
+	+ Alignment and line height
 
-Theme (light/dark/sepia)
+### Additional Features
 
-Alignment and line height
-
-Text-to-Speech: Click the 🔊 button to hear the text.
-
-Copy Text: Click the 📋 button to copy to clipboard.
-
-Reset: Revert to defaults with the "Reset" button.
+* **Text-to-Speech**: Click the 🔊 button to hear the text.
+* **Copy Text**: Click the 📋 button to copy to clipboard.
+* **Reset**: Revert to defaults with the "Reset" button.
 
 🔧 Technologies
-Frontend: React
+-------------
 
-Styling: Tailwind CSS
-
-Text-to-Speech: Web Speech API
-
-State Management: React Hooks
+* **Frontend**: React
+* **Styling**: Tailwind CSS
+* **Text-to-Speech**: Web Speech API
+* **State Management**: React Hooks
 
 🤝 Contributing
-Contributions are welcome! Follow these steps:
+-------------
 
-Fork the repository.
+Contributions are welcome! To contribute, follow these steps:
 
-Create a branch (git checkout -b feature/your-feature).
-
-Commit changes (git commit -m "Add your feature").
-
-Push to the branch (git push origin feature/your-feature).
-
-Open a Pull Request.
+1. **Fork the repository**.
+2. **Create a branch**: `git checkout -b feature/your-feature`.
+3. **Commit changes**: `git commit -m "Add your feature"`.
+4. **Push to the branch**: `git push origin feature/your-feature`.
+5. **Open a Pull Request**.
