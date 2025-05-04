@@ -14,7 +14,11 @@ A React-based web application that allows users to customize text appearance and
   One-click copy formatted text.
 - **Responsive Design**  
   Works on all device sizes.
-  
+
+## 📸 Screenshots
+
+![Text Formatter App Screenshot](./assets/screenshot.png)
+
 ## 🚀 Installation
 
 To install and run the Text Formatter App, follow these steps:
